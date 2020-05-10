@@ -5,6 +5,10 @@
 # Session Data files
 .RData
 
+# ipynb
+Untitled.ipynb
+.ipynb_checkpoints
+
 # User-specific files
 .Ruserdata
 
